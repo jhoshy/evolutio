@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: de0d13a64baf2d84baefd3138ab9b24a
+timeCreated: 1486320660
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arvin Light Italic
+  fontNames:
+  - Arvin Light Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
