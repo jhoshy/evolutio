@@ -13,7 +13,7 @@ public class Beak : MonoBehaviour {
     
     void Update () {        
         //Does the rotation
-        thisTransform.eulerAngles = new Vector3(0,0, Mathf.MoveTowardsAngle(thisTransform.eulerAngles.z, newZ, Time.deltaTime * 500));
+        thisTransform.localEulerAngles = new Vector3(0,0, Mathf.MoveTowardsAngle(thisTransform.localEulerAngles.z, newZ, Time.deltaTime * 500));
         
         //Debug - Funcoes de abrir a boca
         if (Input.GetKeyDown(KeyCode.UpArrow)) OpenBeak();        
